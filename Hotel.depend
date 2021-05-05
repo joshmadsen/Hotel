@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1620175279 source:e:\projects\hotel\hotel.cpp
+	"hotel.h"
+
+1620174806 e:\projects\hotel\hotel.h
+	"room.h"
+
+1620175811 source:e:\projects\hotel\main.cpp
+	"hotel.h"
+
+1620170589 source:e:\projects\hotel\room.cpp
+	"room.h"
+
+1620169494 e:\projects\hotel\room.h
+	<string>
+	<iostream>
+
